@@ -11,7 +11,7 @@ We used the [Credit Card Default payment in Taiwan] (https://archive.ics.uci.edu
 Objective
 
 Using machine learning algorithms and techniques,we can analyze the features and patterns present in the dataset to train a model that can accurately predict whether a credit card holder 
-is likely to default on their payments or not in advance.
+is likely to default on their payments or not.
 
 The dataset contains various attributes or features related to credit card holders, such as demographic information, payment history, bill amounts, and more. By leveraging this data, 
 you can train a classification model that learns patterns and relationships between the features and the target variable (default or non-default), allowing it to make predictions on new, unseen instances.
